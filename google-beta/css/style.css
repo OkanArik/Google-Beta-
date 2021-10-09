@@ -1,0 +1,39 @@
+.bg-gray {
+  background: rgb(197, 194, 194);
+}
+
+.container {
+  margin: 0 10%;
+}
+
+.content{
+    float: left;
+    margin: 0 0;
+    width: 33.333333333333%;
+    height:100px;
+}
+
+
+p {
+    margin: 0 0;
+}
+
+.bg-bir{
+    background:rgb(199, 199, 226);
+}
+
+.bg-iki{
+    background: rgb(153, 153, 212);
+}
+
+.bg-üc{
+    background:rgb(129, 129, 206);
+}
+
+.clearfix{
+    clear: both;
+}
+
+.ta{
+    text-align: center;
+}
